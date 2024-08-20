@@ -1,0 +1,3 @@
+That looks like a pretty cool place to escape by boat, EXAMINE the image and discover the name of this structure.
+
+(NOTE : Flag requires placing inside flag{}! e.g flag{name_of_structure})

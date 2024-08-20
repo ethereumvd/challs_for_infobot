@@ -1,0 +1,3 @@
+I'm shocking when it comes to remembering when my car's CTP is up...can you let me know the exact date (DD/MM/YYYY) when it's due? My rego is 23HONK.
+
+Flag Format: flag{DD/MM/YYYY}. Example: flag{13/01/2025}

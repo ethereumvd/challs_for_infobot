@@ -1,0 +1,4 @@
+This a very easy one.What integer does this program print with argument 4189673334? 
+(Note : Flag format is flag{XXXXXXXX} -> (hex, lowercase, no 0x, and 32 bits. ex. 5614267 would be flag{0055aabb}))
+
+

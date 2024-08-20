@@ -1,0 +1,3 @@
+I cant understand assembly :( Can you help me solve this from the source code ?
+
+( NOTE : The flag format is flag{integer1_integer2_integer3} )

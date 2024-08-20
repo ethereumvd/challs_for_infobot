@@ -1,0 +1,5 @@
+We found some files on the website (not really), the caption was “Right at the heart of the nation, no piece of the bush inside the circle remains untouched by us".
+
+We believe this is one of their meeting places, can you help us find the location of the photo to three decimal places?
+
+Flag format is flag{longitude,latitude}

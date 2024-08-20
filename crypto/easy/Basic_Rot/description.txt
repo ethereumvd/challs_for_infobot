@@ -1,0 +1,4 @@
+Cryptography can be easy, do you know what a rotation cipher is? While you're at it ,also check out Base64 will ya? This one's a bit too eazy!!!
+(note that the flag format is flag{<text>})
+
+encrypted flag : c3ludHtndTFmX2o0Zl9nMDBfcm0hISF9

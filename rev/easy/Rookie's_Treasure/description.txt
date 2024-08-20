@@ -1,0 +1,3 @@
+Thorfinn left a riddle, solving which will give the password, which is what you need to find to unlock a secret treasure..
+
+( NOTE : flag format is flag{flag_a_v2} )

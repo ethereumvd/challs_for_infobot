@@ -1,0 +1,3 @@
+Bridget's travelling the globe and found this marvellous bridge, can you uncover where she took the photo from?
+
+(NOTE: Flag requires placing inside flag{} wrapper! e.g flag{example_flag})

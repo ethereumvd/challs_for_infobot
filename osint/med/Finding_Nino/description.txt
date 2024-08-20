@@ -1,0 +1,3 @@
+After dropping numerous 0days last year Nino has flown the coop. This is the last picture she posted before going dark. Where was this photo taken from?
+
+(NOTE : Flag requires placing inside flag{}! e.g. flag{name_of_building})

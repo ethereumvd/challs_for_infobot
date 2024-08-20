@@ -1,0 +1,3 @@
+What a nice spot to stop,lookout and watch time go by, EXAMINE the image and discover where this was taken.
+
+(NOTE : Flag requires placing inside flag{} wrapper! e.g flag{Osint_Lookout})

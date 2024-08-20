@@ -1,0 +1,3 @@
+After a very successful PearlCTF 2021, the PearlCTF team met up for a few at a Sydney local on the 28th of September to celebrate. We all got kicked out at midnight on-the-dot, what song was playing on Triple J at the time?
+
+Flag Format: Song Name wrapped in flag{}. Example : flag{Never_Gonna_Give_You_Up}
