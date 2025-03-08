@@ -24,7 +24,7 @@ Observe that the queries where the gemstones not included are neither the minimu
 2. For each group, we eliminate two gemstones as impossible answers based on the query results then consider next two gemstones. When only three elements remain, we reintroduce one previously eliminated gemstone to continue the process.
 3. This will ensure that at the end of this process when only two gemstones remain, one of them is guaranteed to be the CURSED GEMSTONE, as we need to guess two gemstones in the end.
 
-If `n` is even ( `n` being the number of gemstones ) we have made `(n-2)/2 * 4 = 2n - 4` queries else we have made `(n-3)/2 * 4  +  4 = 2n - 2` queries . If we observe the prompt given in the `nc` connection properly we can clearly see that we need to make `2n - 2` queries . So if  `n` is even, we make two random queries at the end ( which does not affect our answer ) .
+If `n` is even ( `n` being the number of gemstones ) we have made `(n-2)/2 * 4 = 2n - 4` queries else we have made `(n-3)/2 * 4  +  4 = 2n - 2` queries . Observe thag the prompt given in the `nc` connection clearly requires the player to make `2n - 2` queries . So if  `n` is even, we make two random queries at the end ( which won't affect our answer ) .
 
 A solution script implementing the same is : -
 
