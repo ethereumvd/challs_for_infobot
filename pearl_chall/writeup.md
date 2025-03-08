@@ -1,4 +1,4 @@
-# The Cursed Gemstone 
+# Writeup : Cursed Gemstone 
 
 - **Category** : misc
 - **Points** : 200
