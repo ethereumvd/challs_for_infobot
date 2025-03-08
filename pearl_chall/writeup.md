@@ -4,7 +4,7 @@
 - **Points** : 200
 - **Author** : ethereum
 
-Consider only four gemstones for the time being. Without loss of generality, assume the values of these gemstones are s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub>  where  s<sub>1</sub> < s<sub>2</sub> < s<sub>3</sub> < s<sub>4</sub>  . Now examine all four possible combinations of three-stone queries we can make to the magical scale:
+Consider only four gemstones for the time being. Without loss of generality, assume the values of these gemstones to be s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub>  where  s<sub>1</sub> < s<sub>2</sub> < s<sub>3</sub> < s<sub>4</sub>  . Now examine all four possible combinations of three-stone queries we can make to the magical scale:
 
 1. **Query 2 3 4 :** Compares the second, third, and fourth gemstones.
 2. **Query 1 3 4 :** Compares the first, third, and fourth gemstones.
@@ -17,7 +17,7 @@ The results of these queries will be :
 - **Third query :**  s<sub>4</sub> - s<sub>1</sub> 
 - **Fourth query :**  s<sub>3</sub> - s<sub>1</sub> 
 
-Observe that the queries where the gemstones not included are neither the minimum nor the maximum give same result ( s<sub>4</sub>- s<sub>1</sub> ) , can never yield the correct answer. This generalized case is obviously still applicable when  s<sub>1</sub> = 0 .
+Observe that the queries where the gemstones not included are neither the minimum nor the maximum give same result ( s<sub>4</sub>- s<sub>1</sub> ) , and can never yield the correct answer. This generalized case is obviously still applicable when  s<sub>1</sub> = 0 .
 
 ### Strategy
 1.  We consider groups of four gemstones at a time.
