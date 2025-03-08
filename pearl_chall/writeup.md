@@ -4,7 +4,7 @@
 - **Points** : 200
 - **Author** : ethereum
 
-Consider only four gemstones for the time being. Without loss of generality, assume the values of these gemstones are ( s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub> ) with ( s<sub>1</sub> < s<sub>2</sub> < s<sub>3</sub> < s<sub>4</sub> ) . Now examine all four possible combinations of three-stone queries we can make to the magical scale:
+Consider only four gemstones for the time being. Without loss of generality, assume the values of these gemstones are s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub>  where  s<sub>1</sub> < s<sub>2</sub> < s<sub>3</sub> < s<sub>4</sub>  . Now examine all four possible combinations of three-stone queries we can make to the magical scale:
 
 1. **Query 2 3 4 :** Compares the second, third, and fourth gemstones.
 2. **Query 1 3 4 :** Compares the first, third, and fourth gemstones.
@@ -12,10 +12,10 @@ Consider only four gemstones for the time being. Without loss of generality, ass
 4. **Query 1 2 3 :** Compares the first, second, and third gemstones.
 
 The results of these queries will be :
-- **First query :** ( s<sub>4</sub> - s<sub>2</sub> )
-- **Second query :** ( s<sub>4</sub> - s<sub>1</sub> )
-- **Third query :** ( s<sub>4</sub> - s<sub>1</sub> )
-- **Fourth query :** ( s<sub>3</sub> - s<sub>1</sub> )
+- **First query :**  s<sub>4</sub> - s<sub>2</sub> 
+- **Second query :**  s<sub>4</sub> - s<sub>1</sub> 
+- **Third query :**  s<sub>4</sub> - s<sub>1</sub> 
+- **Fourth query :**  s<sub>3</sub> - s<sub>1</sub> 
 
 Observe that the queries where the gemstones not included are neither the minimum nor the maximum give same result ( s<sub>4</sub>- s<sub>1</sub> ) , can never yield the correct answer. This generalized case is obviously still applicable when  s<sub>1</sub> = 0 .
 
