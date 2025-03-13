@@ -56,12 +56,12 @@ def main():
         guess = [win[0][1], win[1][1]]
     
     if n % 2 == 1:
-        other = 0
+        lef = 0
 
-        while other in guess:
-            other += 1
+        while lef in guess:
+            lef += 1
         win = []
-        curr = [guess[0], guess[1], n - 1, other]
+        curr = [guess[0], guess[1], n - 1, lef]
         for j in range(4):
             x = curr[:j] + curr[j+1:]
             win.append((query(x, conn), curr[j]))
