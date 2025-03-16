@@ -17,7 +17,6 @@ You can query the magical scale with three gems at a time, which will reveal the
 the most and least valuable gems in your selection. Use this power wisely.
 Once you're ready, you will get two final guesses to reveal the cursed gemstone.
 Can you expose the thieves' secret before they disappear forever?
-
 ```
 
 Consider only four gemstones for the time being. Without loss of generality, assume the values of these gemstones to be s<sub>1</sub>, s<sub>2</sub>, s<sub>3</sub>, s<sub>4</sub>  where  s<sub>1</sub> < s<sub>2</sub> < s<sub>3</sub> < s<sub>4</sub>  . Now examine all four possible combinations of three-stone queries we can make to the magical scale:
