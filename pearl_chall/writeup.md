@@ -84,6 +84,7 @@ def main():
         guess = [win[0][1], win[1][1]]
 
 #two random queries before guessing if n is even 
+
     if n % 2 == 0:
         query(x, conn)
         query(x, conn)
